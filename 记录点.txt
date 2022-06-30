@@ -188,5 +188,5 @@ vant可以考虑使用内置的van-hairline--top
 当一个 form 元素中只有一个输入框时，在该输入框中按下回车应提交该表单。
 如果希望阻止这一默认行为，可以在 <el-form> 标签上添加 @submit.native.prevent
 
-
+在使用mockjs时会导致element-ui的文件上传功能中的onProgress失效问题
 
